@@ -6,6 +6,8 @@ Click here for a demo: http://new-york-restaurants-app.vercel.app/
 
 API at https://salty-depths-25560.herokuapp.com/
 
+[API Source](https://github.com/RZ3M/Restaurant-API)
+
 ## Available Scripts
 
 In the project directory, you can run:
