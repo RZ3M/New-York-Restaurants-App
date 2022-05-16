@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Click here for a demo: http://new-york-restaurants-app.vercel.app/
 
+API at https://salty-depths-25560.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
